@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: Spider
+Class-Path: validation-api-1.1.0.Final.jar jansi-1.15.jar jedis-3.1.0.ja
+ r gson-2.8.0.jar javafx-graphics-12.jar jsoup-1.11.3.jar mongo-java-dri
+ ver-3.11.0.jar javafx-controls-12-win.jar commons-pool2-2.6.2.jar javaf
+ x-base-12-win.jar javafx-graphics-12-win.jar log4j-core-2.11.2.jar slf4
+ j-api-1.7.25.jar log4j-api-2.11.2.jar aspectjrt-1.8.7.jar javafx-base-1
+ 2.jar jcabi-aspects-0.22.5.jar javafx-controls-12.jar log4j-slf4j-impl-
+ 2.11.2.jar JCDP-2.0.3.1.jar jcabi-log-0.18.jar annotations-16.0.1.jar
+
